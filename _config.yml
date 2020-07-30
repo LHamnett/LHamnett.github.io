@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leon"
+  name             : "Leon Hamnett"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This portfolio will be used to show some of the projects I have done in the field of Data Analysis and Data Science"
   location         : "Spain"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "LHamnett"
   gitlab           :
   google_plus      :
   keybase          :
